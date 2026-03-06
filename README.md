@@ -1,4 +1,4 @@
-<h1>Hi, I'm Laiba! <br/><a href="https://github.com/laiba74">Web Developer</a>, <a href="https://www.linkedin.com/in/laibawaseemdev/">Software Engineer</a>
+<h1>Hi, I'm Laiba! <br/><a href="https://github.com/laiba74">Data Analyst</a>
 
 <h2>📊 About Me</h2>
 
@@ -31,10 +31,7 @@
     
 <h2> 📬 Connect with me:</h2>
 
-[<img align="left" alt="laibaWaseem | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="laibaWaseem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/laibawaseemdev
-[gmail]: mailto:laibawaseem@gmail.com
+📧 Email: [laibawaseem@gmail.com](mailto:laibawaseem@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/laibawaseemdev](https://linkedin.com/in/laibawaseemdev)
 
 
