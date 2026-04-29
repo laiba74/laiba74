@@ -20,7 +20,7 @@
 <h2>📂 Data Analytics Projects:</h2>
 
 - <b>📈 Sales Data Analysis</b>
-  - [Praciting Html & CSS](https://github.com/laiba74/PurePlates)
+  - [Retail Sales Analysis](https://github.com/laiba74/retail-sales-analysis)
 - <b>📊 Customer Churn Analysis</b>
   - [Travel check [A checklist for Traveling](https://github.com/laiba74/PurePlates)
 - <b>📉 Power BI Sales Dashboard</b>
